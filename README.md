@@ -1,7 +1,6 @@
-# SPA ALURA
-Projeto desenvolvido paralelamente ao curso "SASS: CSS sintaticamente espetacular" da plataforma Alura. Link: https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular
+# Negociações
+Projeto desenvolvido paralelamente ao <a href="https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1">curso</a> "JavaScript: conhecendo o Browser e padrões de projeto" da plataforma Alura.
 
 # Tecnologias utilizadas:
-HTML;
-CSS;
-SASS;
+- HTML;
+- JavaScript;
